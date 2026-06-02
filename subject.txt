@@ -2,4 +2,9 @@
 2.Telugu
 3.Hindi
 4.kanada
+<<<<<<< HEAD
 5.odia
+=======
+5.Tamil
+6.Marathi
+>>>>>>> 2c1d46b8668458208db7f57f69daea0fbf940fa0
